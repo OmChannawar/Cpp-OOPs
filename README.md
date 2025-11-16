@@ -15,22 +15,24 @@ Each program demonstrates a core **Object-Oriented Programming (OOP)** concept a
 
 ## 🗂️ Folder Structure
 
+```
 A2/
-├── Class_&_Object.cpp
-├── Dynamic_Memory_Allocation.cpp
-├── Exception_Handeling.cpp
-├── Friend_Class.cpp
-├── Function_Overloading.cpp
-├── Function_Overriding.cpp
-├── Inheritance_Hierarchical.cpp
-├── Inheritance_Hybrid.cpp
-├── Inheritance_Multilevel.cpp
-├── Inheritance_Multiple.cpp
-├── Inheritance_Single.cpp
-├── Operator_Overloading.cpp
-├── Polymorphism.cpp
-├── Template_Function.cpp
-└── this_Pointer.cpp
+  ├── Class_&_Object.cpp
+  ├── Dynamic_Memory_Allocation.cpp
+  ├── Exception_Handeling.cpp
+  ├── Friend_Class.cpp
+  ├── Function_Overloading.cpp
+  ├── Function_Overriding.cpp
+  ├── Inheritance_Hierarchical.cpp
+  ├── Inheritance_Hybrid.cpp
+  ├── Inheritance_Multilevel.cpp
+  ├── Inheritance_Multiple.cpp
+  ├── Inheritance_Single.cpp
+  ├── Operator_Overloading.cpp
+  ├── Polymorphism.cpp
+  ├── Template_Function.cpp
+  └── this_Pointer.cpp
+```
 
 Each `.cpp` file contains:
 
@@ -75,3 +77,4 @@ Each file represents an individual contribution explaining one OOP topic through
 **Language:** C++  
 **Batch:** A2  
 **Year:** 2025
+
